@@ -1,0 +1,8 @@
+git is a version control system. it is free and open source
+
+1. Centralized version control
+2. Distributed version control 
+
+github is a site to upload the repositories created. To backup your repository
+
+
